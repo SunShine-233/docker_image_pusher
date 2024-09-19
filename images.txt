@@ -1,1 +1,2 @@
 beginor/gitlab-ce 
+nginx:1.25
